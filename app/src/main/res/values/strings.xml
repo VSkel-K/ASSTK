@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ASSTK</string>
+    <string name="robot_description">Imagen del robot asistente ASSTK</string>
+    <string name="accessibility_service_description">ASSTK necesita acceder al contenido de la pantalla para proporcionar asistencia contextual.</string>
+</resources>
